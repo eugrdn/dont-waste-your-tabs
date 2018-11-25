@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Host Catcher",
-  "version": "1.0",
+  "name": "Don't waste your tabs",
+  "version": "1.1",
   "description": "Extension that prevents opening multiple tabs for one hostname",
   "icons": {
     "16": "images/icon-16.png",

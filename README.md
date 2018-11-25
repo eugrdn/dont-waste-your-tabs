@@ -1,4 +1,4 @@
-# Host Catcher
+# Don't waste your tabs
 
 _Chrome extension that prevents opening multiple tabs for one hostname._
 
