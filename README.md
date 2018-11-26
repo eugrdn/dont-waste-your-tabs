@@ -1,10 +1,18 @@
-# Don't waste your tabs
+<p align="center">
+    <img
+        width='100'
+        title='extension logo'
+        src="./extension/images/icon-512.png"
+    />
+</p>
 
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/hikfenppbcopnhaijlnmpfinpdihbcdm.svg)](https://chrome.google.com/webstore/detail/dont-waste-your-tabs/hikfenppbcopnhaijlnmpfinpdihbcdm)
-[![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hikfenppbcopnhaijlnmpfinpdihbcdm.svg)](https://chrome.google.com/webstore/detail/dont-waste-your-tabs/hikfenppbcopnhaijlnmpfinpdihbcdm)
-[![Chrome Web Store Rating Count](https://img.shields.io/chrome-web-store/rating-count/hikfenppbcopnhaijlnmpfinpdihbcdm.svg)](https://chrome.google.com/webstore/detail/dont-waste-your-tabs/hikfenppbcopnhaijlnmpfinpdihbcdm)
-[![Chrome Web Store Downloads](https://img.shields.io/chrome-web-store/d/hikfenppbcopnhaijlnmpfinpdihbcdm.svg)](https://chrome.google.com/webstore/detail/dont-waste-your-tabs/hikfenppbcopnhaijlnmpfinpdihbcdm)
-[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/hikfenppbcopnhaijlnmpfinpdihbcdm.svg)](https://chrome.google.com/webstore/detail/dont-waste-your-tabs/hikfenppbcopnhaijlnmpfinpdihbcdm)
+# Productive tabs
+
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/fcemgaafihbcbkoiakphaloclfhephpf.svg)](https://chrome.google.com/webstore/detail/productive-tabs/fcemgaafihbcbkoiakphaloclfhephpf)
+[![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/fcemgaafihbcbkoiakphaloclfhephpf.svg)](https://chrome.google.com/webstore/detail/productive-tabs/fcemgaafihbcbkoiakphaloclfhephpf)
+[![Chrome Web Store Rating Count](https://img.shields.io/chrome-web-store/rating-count/fcemgaafihbcbkoiakphaloclfhephpf.svg)](https://chrome.google.com/webstore/detail/productive-tabs/fcemgaafihbcbkoiakphaloclfhephpf)
+[![Chrome Web Store Downloads](https://img.shields.io/chrome-web-store/d/fcemgaafihbcbkoiakphaloclfhephpf.svg)](https://chrome.google.com/webstore/detail/productive-tabs/fcemgaafihbcbkoiakphaloclfhephpf)
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/fcemgaafihbcbkoiakphaloclfhephpf.svg)](https://chrome.google.com/webstore/detail/productive-tabs/fcemgaafihbcbkoiakphaloclfhephpf)
 
 _Chrome extension that prevents opening multiple tabs for one hostname._
 

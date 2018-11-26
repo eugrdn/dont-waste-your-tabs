@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Don't waste your tabs",
+  "name": "Productive Tabs - have only one tab per site",
+  "short_name": "Productive Tabs",
   "version": "1.2",
   "description": "Extension that prevents opening multiple tabs for one hostname",
   "icons": {
